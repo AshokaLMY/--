@@ -1,0 +1,13 @@
+#include<iostream>    
+
+int main()  //Ö÷º¯Êý
+
+{
+
+   int i;
+
+   cin>>i;
+
+   if (i>3) cout<<"ok";
+
+}
